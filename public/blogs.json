@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "cover_image_1.jpg",
+      "title": "The Secret Garden",
+      "author": "Jane Smith",
+      "author_img": "author_image_1.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": ["#fiction", "#gardening", "#magic"]
+    },
+    {
+      "id": "2",
+      "cover": "cover_image_2.jpg",
+      "title": "Beyond the Stars",
+      "author": "John Doe",
+      "author_img": "author_image_2.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 20,
+      "hashtags": ["#scifi", "#adventure", "#space"]
+    },
+    {
+      "id": "3",
+      "cover": "cover_image_3.jpg",
+      "title": "The Mystery of Oakwood Manor",
+      "author": "Emily Brown",
+      "author_img": "author_image_3.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 25,
+      "hashtags": ["#mystery", "#detective", "#thriller"]
+    },
+    {
+      "id": "4",
+      "cover": "cover_image_4.jpg",
+      "title": "Cooking with Passion",
+      "author": "David Johnson",
+      "author_img": "author_image_4.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 30,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "id": "5",
+      "cover": "cover_image_5.jpg",
+      "title": "The Art of Happiness",
+      "author": "Sarah Lee",
+      "author_img": "author_image_5.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 10,
+      "hashtags": ["#selfhelp", "#happiness", "#mindfulness"]
+    }
+  ]
+  
