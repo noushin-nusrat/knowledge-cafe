@@ -1,53 +1,55 @@
 [
-    {
-      "id": "1",
-      "cover": "cover_image_1.jpg",
-      "title": "The Secret Garden",
-      "author": "Jane Smith",
-      "author_img": "author_image_1.jpg",
-      "posted_date": "2024-03-13",
-      "reading_time": 15,
-      "hashtags": ["#fiction", "#gardening", "#magic"]
-    },
-    {
-      "id": "2",
-      "cover": "cover_image_2.jpg",
-      "title": "Beyond the Stars",
-      "author": "John Doe",
-      "author_img": "author_image_2.jpg",
-      "posted_date": "2024-03-12",
-      "reading_time": 20,
-      "hashtags": ["#scifi", "#adventure", "#space"]
-    },
-    {
-      "id": "3",
-      "cover": "cover_image_3.jpg",
-      "title": "The Mystery of Oakwood Manor",
-      "author": "Emily Brown",
-      "author_img": "author_image_3.jpg",
-      "posted_date": "2024-03-11",
-      "reading_time": 25,
-      "hashtags": ["#mystery", "#detective", "#thriller"]
-    },
-    {
-      "id": "4",
-      "cover": "cover_image_4.jpg",
-      "title": "Cooking with Passion",
-      "author": "David Johnson",
-      "author_img": "author_image_4.jpg",
-      "posted_date": "2024-03-10",
-      "reading_time": 30,
-      "hashtags": ["#cooking", "#recipes", "#foodie"]
-    },
-    {
-      "id": "5",
-      "cover": "cover_image_5.jpg",
-      "title": "The Art of Happiness",
-      "author": "Sarah Lee",
-      "author_img": "author_image_5.jpg",
-      "posted_date": "2024-03-09",
+  {
+      "id": 1,
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "author": "Hamza Sohail",
+      "posted_date": "September 15, 2023",
+      "reading_time": 5,
+      "hashtags": [
+          "beginners",
+          "es6"
+      ]
+  },
+  {
+      "id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "author": "Sajal Ali",
+      "posted_date": "August 28, 2023",
+      "reading_time": 4,
+      "hashtags": [
+          "javascript",
+          "coding",
+          "dev"
+      ]
+  },
+  {
+      "id": 3,
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "Component lifecycle in React — Class component vs Functional component",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "author": "Feroze Khan",
+      "posted_date": "July 10, 2023",
       "reading_time": 10,
-      "hashtags": ["#selfhelp", "#happiness", "#mindfulness"]
-    }
-  ]
-  
+      "hashtags": [
+          "mid_level",
+          "react"
+      ]
+  },
+  {
+      "id": 4,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "Free images and resources collection for website",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "author": "Anmol Baloch",
+      "posted_date": "June 5, 2023",
+      "reading_time": 9,
+      "hashtags": [
+          "development",
+          "resources"
+      ]
+  }
+]
